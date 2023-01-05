@@ -15,7 +15,5 @@ public interface ICountriesServices
     Task<ReadCalenderDTO> AllHolidays();
     Task<bool> AddCountries();
     Task<ICollection<ListCountriesDTO>> ListCountries();
-    //Task<Holiday> AddHolidayToCountry(string Countryid, AddHolidayDTO holiday);
-    //Task<Country> DeleteHolidayFromCountry(string CountryId, string HolidayId);
-    //Task<Holiday> UpdateHoliday(UpdateHolidayDTO holiday, int id);
+
 }

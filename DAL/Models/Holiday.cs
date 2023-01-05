@@ -8,19 +8,6 @@ public class Holiday
     {
         this.Countries = new HashSet<Country>();
     }
-
-    //public string kind { get; set; }
-
-    //[Key]
-    //public string etag { get; set; }
-    //public string summary { get; set; }
-    //public string updated { get; set; }
-    //public string timeZone { get; set; }
-    //public string accessRole { get; set; }
-    //public List<string> defaultReminders { get; set; }
-    //public string nextSyncToken { get; set; }
-
-
     public string kind { get; set; }
 
     [Key]
