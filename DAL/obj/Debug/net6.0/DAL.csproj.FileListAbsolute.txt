@@ -1,0 +1,14 @@
+C:\DotNet\Tasks\CountriesHolidays\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\DotNet\Tasks\CountriesHolidays\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+C:\DotNet\Tasks\CountriesHolidays\DAL\bin\Debug\net6.0\DAL.dll
+C:\DotNet\Tasks\CountriesHolidays\DAL\bin\Debug\net6.0\DAL.pdb
+C:\DotNet\Tasks\CountriesHolidays\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\DotNet\Tasks\CountriesHolidays\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\DotNet\Tasks\CountriesHolidays\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\DotNet\Tasks\CountriesHolidays\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\DotNet\Tasks\CountriesHolidays\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\DotNet\Tasks\CountriesHolidays\DAL\obj\Debug\net6.0\DAL.dll
+C:\DotNet\Tasks\CountriesHolidays\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\DotNet\Tasks\CountriesHolidays\DAL\obj\Debug\net6.0\DAL.pdb
+C:\DotNet\Tasks\CountriesHolidays\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+C:\DotNet\Tasks\CountriesHolidays\DAL\obj\Debug\net6.0\ref\DAL.dll
